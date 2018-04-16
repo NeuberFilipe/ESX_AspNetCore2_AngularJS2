@@ -1,0 +1,9 @@
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\bin\Debug\netcoreapp2.0\ESX.Core.Infra.deps.json
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\bin\Debug\netcoreapp2.0\ESX.Core.Infra.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\bin\Debug\netcoreapp2.0\ESX.Core.Infra.pdb
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\obj\Debug\netcoreapp2.0\ESX.Core.Infra.csprojResolveAssemblyReference.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\obj\Debug\netcoreapp2.0\ESX.Core.Infra.csproj.CoreCompileInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\obj\Debug\netcoreapp2.0\ESX.Core.Infra.AssemblyInfoInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\obj\Debug\netcoreapp2.0\ESX.Core.Infra.AssemblyInfo.cs
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\obj\Debug\netcoreapp2.0\ESX.Core.Infra.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Core.Infra\obj\Debug\netcoreapp2.0\ESX.Core.Infra.pdb

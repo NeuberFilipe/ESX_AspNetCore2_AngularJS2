@@ -1,0 +1,14 @@
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\ESX.Tests.deps.json
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\ESX.Tests.runtimeconfig.json
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\ESX.Tests.runtimeconfig.dev.json
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\ESX.Tests.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\bin\Debug\netcoreapp2.0\ESX.Tests.pdb
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\obj\Debug\netcoreapp2.0\ESX.Tests.csprojResolveAssemblyReference.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\obj\Debug\netcoreapp2.0\ESX.Tests.csproj.CoreCompileInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\obj\Debug\netcoreapp2.0\ESX.Tests.AssemblyInfoInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\obj\Debug\netcoreapp2.0\ESX.Tests.AssemblyInfo.cs
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\obj\Debug\netcoreapp2.0\ESX.Tests.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Tests\obj\Debug\netcoreapp2.0\ESX.Tests.pdb

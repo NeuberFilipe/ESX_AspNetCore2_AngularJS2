@@ -1,0 +1,9 @@
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\bin\Debug\netcoreapp2.0\ESX.Domain.deps.json
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\bin\Debug\netcoreapp2.0\ESX.Domain.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\bin\Debug\netcoreapp2.0\ESX.Domain.pdb
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\obj\Debug\netcoreapp2.0\ESX.Domain.csprojResolveAssemblyReference.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\obj\Debug\netcoreapp2.0\ESX.Domain.csproj.CoreCompileInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\obj\Debug\netcoreapp2.0\ESX.Domain.AssemblyInfoInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\obj\Debug\netcoreapp2.0\ESX.Domain.AssemblyInfo.cs
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\obj\Debug\netcoreapp2.0\ESX.Domain.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Domain\obj\Debug\netcoreapp2.0\ESX.Domain.pdb

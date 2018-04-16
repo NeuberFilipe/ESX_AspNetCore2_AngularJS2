@@ -1,0 +1,14 @@
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\bin\Debug\netcoreapp2.0\ESX.Data.deps.json
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\bin\Debug\netcoreapp2.0\ESX.Data.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\bin\Debug\netcoreapp2.0\ESX.Data.pdb
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\bin\Debug\netcoreapp2.0\ESX.Domain.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\bin\Debug\netcoreapp2.0\ESX.Domain.pdb
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\obj\Debug\netcoreapp2.0\ESX.Data.csprojResolveAssemblyReference.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\obj\Debug\netcoreapp2.0\ESX.Data.csproj.CoreCompileInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\obj\Debug\netcoreapp2.0\ESX.Data.AssemblyInfoInputs.cache
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\obj\Debug\netcoreapp2.0\ESX.Data.AssemblyInfo.cs
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\obj\Debug\netcoreapp2.0\ESX.Data.csproj.CopyComplete
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\obj\Debug\netcoreapp2.0\ESX.Data.dll
+C:\Users\n.coelho\source\repos\ESX\ESX.Data\obj\Debug\netcoreapp2.0\ESX.Data.pdb
